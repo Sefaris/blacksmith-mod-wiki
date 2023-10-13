@@ -1,10 +1,6 @@
 - **Zadania**
-- [Rozdział 1](chapters/1.md?id=rozdział-i)
-- [Rozdział 2](chapters/2.md?id=rozdział-ii)
-- [Rozdział 3](chapters/3.md?id=rozdział-iii)
-- [Rozdział 4](chapters/4.md?id=rozdział-iv)
-- [Rozdział 5](chapters/5.md?id=rozdział-v)
-- [Rozdział 6](chapters/6.md?id=rozdział-vi)
+- [Mechaniki](gameplay.md?id=mechaniki)
+- [Konfiguracja](configuration.md?id=konfiguracja)
 - **Linki**
 - [Instalacja](https://sefaris.eu/kowal-bezimienny-bohater/installation)
 - [Sefaris](https://sefaris.eu)
