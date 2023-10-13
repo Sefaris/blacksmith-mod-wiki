@@ -1,1 +1,1 @@
-# Gothic II: Legend of Ahssûn
+# Gothic II: Kowal: Bezimienny Bohater

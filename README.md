@@ -1,6 +1,6 @@
-# Gothic II: Legend of Ahssûn
+# Gothic II: Kowal: Bezimienny Bohater
 
-Ten projekt zawiera solucję do modyfikacji Legend of Ahssûn od [Team Sefaris](https://sefaris.eu) oraz [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl/). Solucję można znaleźć także pod adresem [https://loa.mody.sefaris.eu](https://loa.mody.sefaris.eu)
+Ten projekt zawiera solucję do modyfikacji Kowal: Bezimienny Bohater od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://kowal.mody.sefaris.eu](https://kowal.mody.sefaris.eu)
 
 ## Instalacja oraz wymagania
 
@@ -32,6 +32,4 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub w innych elementach wyst
 
 ## Autorzy
 
-- [Yami](https://github.com/Yamixowy)
-- Buzka
-- [Simon Said](https://www.youtube.com/@SimonSaid)
+- [WIP]

@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Legend of Ahssûn - sefaris.eu</title>
+  <title>Kowal: Bezimienny Bohater - sefaris.eu</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Strona zawiera solucję do modyfikacji oraz wiele więcej.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -24,8 +24,8 @@
           '/': 'Wyszukaj'
         }
       },
-      name: 'Legend of Ahssûn',
-      repo: 'https://github.com/met0rii/loa-pl-wiki',
+      name: 'Kowal: Bezimienny Bohater',
+      repo: 'https://github.com/Sefaris/blacksmith-mod-wiki',
       loadSidebar: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
@@ -47,7 +47,7 @@
                 .replace('@master', '/blob/master');
             } else {
               url =
-                'https://github.com/met0rii/loa-pl-wiki/tree/main/docs/' +
+                'https://github.com/Sefaris/blacksmith-mod-wiki/tree/main/docs/' +
                 vm.route.file;
             }
             var editHtml = '[:memo:](' + url + ') [Edytuj dokument](' + url + ')\n';
@@ -59,10 +59,10 @@
               ' lub dołącz na <a href="https://discord.gg/9EVFJv5Uyf" target="_blank" style="color: var(--sidebar-nav-link-color--active, var(--sidebar-nav-link-color)); font-weight: normal; text-decoration: none;">nasz serwer discord!</a>'
             );
           }),
-          hook.doneEach((content) => {
-            if(window.location.hash.slice(1) != '/') 
-              document.title += " - Legend of Ahssûn - sefaris.eu";
-          });
+            hook.doneEach((content) => {
+              if (window.location.hash.slice(1) != '/')
+                document.title += " - Kowal: Bezimienny Bohater - sefaris.eu";
+            });
         },
       ]
     }

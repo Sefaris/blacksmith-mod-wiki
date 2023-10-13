@@ -6,6 +6,5 @@
 - [Rozdział 5](chapters/5.md?id=rozdział-v)
 - [Rozdział 6](chapters/6.md?id=rozdział-vi)
 - **Linki**
-- [Instalacja](https://sefaris.eu/loa/installation)
+- [Instalacja](https://sefaris.eu/kowal-bezimienny-bohater/installation)
 - [Sefaris](https://sefaris.eu)
-- [Bractwo Spolszczenia](https://www.bractwospolszczenia.pl/)
